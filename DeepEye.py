@@ -1,5 +1,5 @@
 
-# Development by: @crypt0r
+# Development by: @LaDarka
 
 import socket
 import os, sys
