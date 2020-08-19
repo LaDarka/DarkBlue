@@ -1,6 +1,5 @@
 
 # Development by: @crypt0r
-# ./dev = Computing CLub Crypt0rs
 
 import socket
 import os, sys
@@ -35,7 +34,7 @@ def HttpServerHacking(IP_address,PORT_SOCK):
     <===========================================>
       _________________________
 
-        Author: @CryptZac
+        Author: @LaDarka
       _________________________
       """)
 
